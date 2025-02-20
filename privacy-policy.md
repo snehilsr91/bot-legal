@@ -35,8 +35,8 @@ We **never** sell or share data with third parties.
 ## 🔹 4. Your Rights & How to Contact Us  
 - 🗑️ You can request **data deletion** by reaching out to us.  
 - 💬 Contact us via:  
-  📧 Email: snehilsr91@gmail.com  
-  🌍 Discord Support Server: https://discord.gg/6apva2wVgs
+  📧 Email: **[Creator E-mail](snehilsr91@gmail.com) **
+  🌍 Discord Support Server: **[Jango Support Server](https://discord.gg/6apva2wVgs)**
 
 ---
 
