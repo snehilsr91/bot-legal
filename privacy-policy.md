@@ -1,6 +1,6 @@
 # 🛡️ Privacy Policy  
 
-_Last Updated: **21 Jan, 2025**_  
+_Last Updated: **21 Feb, 2025**_  
 
 Welcome to **Jango**! We are committed to protecting your privacy. Below is how we handle your data.  
 
