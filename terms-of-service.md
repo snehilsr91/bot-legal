@@ -24,7 +24,7 @@ By using **Jango**, you agree to these Terms of Service. If you do **not** agree
 ---
 
 ## 🔹 3. Data Collection & Privacy  
-🔍 We collect minimal data necessary for the bot’s functionality. Please refer to our **[Privacy Policy](https://yourusername.github.io/bot-legal/privacy-policy)** for details.  
+🔍 We collect minimal data necessary for the bot’s functionality. Please refer to our **[Privacy Policy](https://github.com/snehilsr91/bot-legal/blob/main/privacy-policy.md)** for details.  
 
 ---
 
@@ -45,7 +45,7 @@ Use the bot at **your own risk**.
 ## 🔹 6. Contact & Support  
 If you have any questions, contact us:  
 📧 Email: snehilsr91@gmail.com 
-🌍 Discord Support Server: [Your Discord Server Link]  
+🌍 Discord Support Server: https://discord.gg/6apva2wVgs
 
 **By using Jango, you agree to these Terms of Service.**  
 
