@@ -1,8 +1,8 @@
 # 🛡️ Privacy Policy  
 
-_Last Updated: **[Insert Date]**_  
+_Last Updated: **21 Jan, 2025**_  
 
-Welcome to **[Your Bot Name]**! We are committed to protecting your privacy. Below is how we handle your data.  
+Welcome to **Jango**! We are committed to protecting your privacy. Below is how we handle your data.  
 
 ---
 
@@ -35,7 +35,7 @@ We **never** sell or share data with third parties.
 ## 🔹 4. Your Rights & How to Contact Us  
 - 🗑️ You can request **data deletion** by reaching out to us.  
 - 💬 Contact us via:  
-  📧 Email: [Your Email]  
+  📧 Email: snehilsr91@gmail.com  
   🌍 Discord Support Server: [Your Discord Server Link]  
 
 ---
@@ -44,6 +44,6 @@ We **never** sell or share data with third parties.
 > ⚠️ This Privacy Policy may be updated from time to time.  
 > We will notify users in case of major changes.  
 
-**By using [Your Bot Name], you agree to this Privacy Policy.**  
+**By using Jango, you agree to this Privacy Policy.**  
 
 ---
