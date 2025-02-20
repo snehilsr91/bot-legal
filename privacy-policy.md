@@ -36,7 +36,7 @@ We **never** sell or share data with third parties.
 - 🗑️ You can request **data deletion** by reaching out to us.  
 - 💬 Contact us via:  
   📧 Email: snehilsr91@gmail.com  
-  🌍 Discord Support Server: [Your Discord Server Link]  
+  🌍 Discord Support Server: https://discord.gg/6apva2wVgs
 
 ---
 
