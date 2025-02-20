@@ -1,13 +1,13 @@
 # 📜 Terms of Service  
 
-_Last Updated: **[Insert Date]**_  
+_Last Updated: **21 Feb, 2025**_  
 
-Welcome to **[Your Bot Name]**! By using this bot, you agree to follow these Terms of Service.  
+Welcome to **Jango**! By using this bot, you agree to follow these Terms of Service.  
 
 ---
 
 ## 🔹 1. Acceptance of Terms  
-By using **[Your Bot Name]**, you agree to these Terms of Service. If you do **not** agree, please stop using the bot.  
+By using **Jango**, you agree to these Terms of Service. If you do **not** agree, please stop using the bot.  
 
 ---
 
@@ -44,9 +44,9 @@ Use the bot at **your own risk**.
 
 ## 🔹 6. Contact & Support  
 If you have any questions, contact us:  
-📧 Email: [Your Email]  
+📧 Email: snehilsr91@gmail.com 
 🌍 Discord Support Server: [Your Discord Server Link]  
 
-**By using [Your Bot Name], you agree to these Terms of Service.**  
+**By using Jango, you agree to these Terms of Service.**  
 
 ---
